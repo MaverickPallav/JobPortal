@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "job_search",
+    "slug": "job_search",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "91c39f64-77e0-41eb-be48-37664af20b56"
+      }
+    },
+    "android": {
+      "package": "com.maverickpallav.job_search"
+    }
+  }
+}
